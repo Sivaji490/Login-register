@@ -12,3 +12,6 @@ changes from sivaji sub branch
 
 
 make it now also
+
+
+automate pipeline
