@@ -12,6 +12,4 @@ changes from sivaji sub branch
 
 
 make it now also
-
-
-automate pipeline
+make it trigger job automatically
